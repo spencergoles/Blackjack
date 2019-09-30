@@ -1,4 +1,4 @@
-# Solitaire
+# Blackjack
 
 ## Challenge: 
 
